@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize');
 //Conexão com o banco de dados
-const sequelize = new Sequelize('postapp' , 'root', 'Geanvmacedo&7',{
+const sequelize = new Sequelize('postapp' , 'root', 'senhadomysql',{
     host: "localhost", 
     dialect: "mysql"
 });
