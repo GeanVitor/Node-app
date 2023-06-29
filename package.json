@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "node",
+  "version": "0.0.0",
+  "main": "./main.js",
+  "bin": "./cli.js",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express-handlebars": "^7.0.7",
+    "handlebars": "^4.7.7",
+    "mysql2": "^3.4.2",
+    "sequelize": "^6.32.1"
+  }
+}
